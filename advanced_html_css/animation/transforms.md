@@ -242,7 +242,7 @@ While not strictly a 3D transform function, matrix is mentioned last in this les
 
 Matrix is a way of combining all transform functions into one. It is seldom used due to its poor readability, and almost never written by hand. Unless you have a very complex transformation to apply, you should use other transform function values instead.
 
-It is enough for you to know *that* these functions exist and generally how they work. However, it is not important for you to feel comfortable building with them. Skim [this article](https://www.quackit.com/css/functions/css_matrix_function.cfm) to get the gist of `matrix`.
+It is enough for you to *know* that these functions exist and generally how they work. However, it is not important for you to feel comfortable building with them. Skim [this article](https://www.quackit.com/css/functions/css_matrix_function.cfm) to get the gist of `matrix`.
 
 ### Benefits of Transforms
 
